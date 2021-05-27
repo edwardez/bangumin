@@ -61,7 +61,7 @@
     "reflect-metadata": "^0.1.13",
     "request": "^2.87.0",
     "request-promise": "^4.2.4",
-    "sequelize": "^4.44.2",
+    "sequelize": "^5.15.1",
     "sequelize-typescript": "^0.6.11",
     "snakecase-keys": "^1.2.0",
     "winston": "^3.2.1",
